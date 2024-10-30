@@ -1,5 +1,5 @@
 {
-  "name": "random-number-generator",
+  "name": "lacerba-random-number-generator",
   "version": "1.0.0",
   "description": "A fullstack random number generator project build for Lacerba",
   "main": "main.ts",
@@ -14,5 +14,11 @@
     "generator"
   ],
   "author": "@loyBruno",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/LoyBru/lacerba-random-number-generator"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.2"
+  }
 }
